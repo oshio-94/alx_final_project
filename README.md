@@ -7,7 +7,7 @@ This Project is meant to showcase my understanding of frontend and backend techn
 ## Technology
 * HTML and CSS - HTML provides web page structure, whereas CSS is mainly used to control web page styling 
 * PHP was used to create website functionality and the management systems and more. It is a widely-used general-purpose language that can be embedded into HTML.It is used as the core programming language to handle all the core functions.
-* MySql is a relational database management system based on SQL – Structured Query Language and was used to store data in tables that can be map to objects. 
+XAMPP - Used in order to run PHP scripts and manage our database.
 
 ## Installation
 ```sh
