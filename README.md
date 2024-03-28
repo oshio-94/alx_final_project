@@ -14,22 +14,16 @@ This Project is meant to showcase my understanding of frontend and backend techn
 $ git clone https://github.com/oshio-94/alx_final_project.git
 ```
 ## Screenshots & Demo
-[![The Inventory Manager Demo]](https://youtu.be/4LFtZJnbL8E)
+[![The Inventory Manager Demo]](https://youtu.be/dpQGXZ1vrFQ)
 
 ## Files
 
 | Filename | Description |
 | -------- | ----------- |
-| `KeyboardController.h` | `For handling the user inputs` |
-| `textureManager.h` | `For handling the uploading and managing of textures` |
-| `GameObject.h` | `For handling the Game object rendering` |
-| `test_maze_0.h` | `Contains most logical functions` |
-| `Vector2D.h` | `Movement of Sprite` |
-| `SpriteComponent.h` | `For handling the player avatar` |
-| `Map.h` | `For building the 2D Map` |
-| `main.cpp` | `The main C++ file` |
-| `assets` | `Picture and Textures` |
-| `ECS.h` | `Handling the Entity Component Systems` |
+| `admin_page.php` | `Main Page for adding products to database` |
+| `style.css` | `For handling the page styling` |
+| `admin_update.php` | `Page for updating inventory` |
+| `config.php` | `Connects to database` |
 
 ## Author :black_nib:
 
