@@ -8,11 +8,15 @@ This Project is meant to showcase my understanding of frontend and backend techn
 * HTML and CSS - HTML provides web page structure, whereas CSS is mainly used to control web page styling 
 * PHP was used to create website functionality and the management systems and more. It is a widely-used general-purpose language that can be embedded into HTML.It is used as the core programming language to handle all the core functions.
 * XAMPP - Used in order to run PHP scripts and manage our database.
+```sh
+$ https://www.apachefriends.org/download.html
+```
 
 ## Installation
 ```sh
 $ git clone https://github.com/oshio-94/alx_final_project.git
 ```
+
 ## Screenshots & Demo
 [![The Inventory Manager Demo]](https://youtu.be/dpQGXZ1vrFQ)
 
