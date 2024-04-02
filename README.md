@@ -2,7 +2,8 @@
 
 ## Alx Final Project 
 
-This Project is meant to showcase my understanding of frontend and backend technologies, my ability to learn a new  programming language, showcase my skill and to also have fun while doing so.The inventory manager incorporates both of these and is meant to serve as a useful tool to aid online store owners help manage their inventory without the need for any coding background.
+This Project is meant to showcase my understanding of frontend and backend technologies, my ability to learn a new  programming language, showcase my skill and to also have fun while doing so. 
+The inventory manager incorporates both of these and is meant to serve as a useful tool to aid online store owners help manage their inventory without the need for any coding background. It is ony one small part of a much larger project which would entail building the main Ecommerce website and deploying it.
 
 ## Technology
 * HTML and CSS - HTML provides web page structure, whereas CSS is mainly used to control web page styling 
