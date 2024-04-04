@@ -21,6 +21,9 @@ Once XAMPP has been installed and the contents of the repositiory downloaded, ru
 ## Screenshots & Demo
 [![The Inventory Manager Demo]](https://youtu.be/dpQGXZ1vrFQ)
 
+## Images
+![Alt text](./images/food-2.png)
+
 ## Files
 
 | Filename | Description |
