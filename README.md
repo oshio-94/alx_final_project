@@ -30,9 +30,9 @@ Once XAMPP has been installed and the contents of the repositiory downloaded, ru
 
 | Filename | Description |
 | -------- | ----------- |
-| `admin_page.php` | `Main Page for adding products to database` |
+| `admin.php` | `Main Page for adding products to database` |
 | `style.css` | `For handling the page styling` |
-| `admin_update.php` | `Page for updating inventory` |
+| `products.php` | `Page for updating inventory` |
 | `config.php` | `Connects to database` |
 
 ## Author :black_nib:
