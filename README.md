@@ -33,7 +33,9 @@ Once XAMPP has been installed and the contents of the repositiory downloaded, ru
 | `admin.php` | `Main Page for adding products to database` |
 | `style.css` | `For handling the page styling` |
 | `products.php` | `Page for updating inventory` |
-| `config.php` | `Connects to database` |
+| `cart.php` | `view and update cart` |
+| `header.php` | `Header section for page` |
+| `checkout.php` | `Contains checkout page` |
 
 ## Author :black_nib:
 
