@@ -22,8 +22,8 @@ Once XAMPP has been installed and the contents of the repositiory downloaded, ru
 [![The Inventory Manager Demo]](https://youtu.be/dpQGXZ1vrFQ)
 
 ## Images
-![Alt text](./images/Screen%20Shot%202024-04-04%20at%2012.54.55.png)
-![Alt text](./images/Screen%20Shot%202024-04-04%20at%2012.55.23.png)
+![My Cart](./images/Screen%20Shot%202024-04-04%20at%2012.54.55.png)
+![Checkout Page](./images/Screen%20Shot%202024-04-04%20at%2012.55.23.png)
 
 
 ## Files
